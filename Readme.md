@@ -1,4 +1,3 @@
-```markdown
 # Assignment Submission Portal - Backend
 
 This is a backend system for an assignment submission portal built with Node.js, Express, and MongoDB. It supports user and admin roles, allowing users to submit assignments and admins to review them.
