@@ -9,7 +9,7 @@ This is a backend system for an assignment submission portal built with Node.js,
 Clone the repository to your local machine:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/AxBwal/backendassign.git
 ```
 
 ### 2. Install Dependencies
